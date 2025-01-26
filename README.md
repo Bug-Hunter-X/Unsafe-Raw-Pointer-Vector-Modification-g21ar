@@ -1,0 +1,1 @@
+This repository demonstrates an example of unsafe code in Rust involving raw pointers and vectors.  The `bug.rs` file shows the unsafe modification of a vector element. The `bugSolution.rs` offers a safe alternative using standard vector methods.  Always prioritize safe Rust practices.
